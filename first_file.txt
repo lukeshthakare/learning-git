@@ -1,1 +1,2 @@
 my first line for git projecct.
+doing some changes for second commit
