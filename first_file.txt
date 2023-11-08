@@ -1,4 +1,4 @@
 my first line for git projecct.
 doing some changes for second commit
 adding lines for 3rd commit
-before 3rd commit i want to load one more line, since the file is in stage 
+removing line and added another line for git log -p
